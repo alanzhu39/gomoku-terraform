@@ -1,0 +1,6 @@
+Build:
+docker build -t alanzhu39/rust-gomomku-39:latest
+
+Push:
+docker push alanzhu39/rust-gomoku-39:latest
+
